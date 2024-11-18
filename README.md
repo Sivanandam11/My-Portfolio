@@ -37,4 +37,5 @@ I appreciate any suggestions, feedback, or contributions to enhance this persona
 If you have any questions or inquiries, please feel free to reach out to me through the contact information provided in the website or by using the contact form.
 
 Thank you for visiting my personal portfolio repository! I hope you find it informative and visually appealing.
-![Portfolio](https://github.com/Sivanandam11/My-Portfolio.git)
+![Portfolio](https://github.com/user-attachments/assets/3c0e2f36-0ad1-4dab-b06c-fe5b8f14dde5)
+
